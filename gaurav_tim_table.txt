@@ -5,3 +5,4 @@ gaurav starts for office @ 08:30 am
 gaurav reaches office @ 09:00 am
 gaurav starts working @ 9:30
 gaurav has lunch @ 12:30 pm
+gaurav has daily standup @ 1:30 pm
