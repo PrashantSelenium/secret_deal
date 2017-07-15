@@ -3,3 +3,4 @@ gaurav goes jogging @ 6 am
 gaurav has breakfast @7:30 am
 gaurav starts for office @ 08:30 am
 gaurav reaches office @ 09:00 am
+gaurav starts working @ 9:30
